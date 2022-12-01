@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task_2</string>
+    <string name="title_home">Новый заказ</string>
+    <string name="title_dashboard">Завершение смены</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="liters_hint">Кол-во в литрах</string>
+    <string name="add_order_button">Добавить заказ</string>
+    <string-array name="petrol_array">
+        <item>АИ-92</item>
+        <item>АИ-95</item>
+        <item>CHOOH2</item>
+    </string-array>
+</resources>
